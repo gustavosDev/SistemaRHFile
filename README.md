@@ -1,5 +1,6 @@
 # SistemaRHFile
 Não tive tempo de fazer o sistema de Login para entrar nas funcionalidades, porém o projeto tem todas as funcionalidades que foram pedidas, claro, exceto a de login
+obs: o arquivo "gittributes" serviu apenas para enviar o projeto para o github (desnecessároio para o projeto)
 
 Tutorial para fazer o projeto rodar
 
